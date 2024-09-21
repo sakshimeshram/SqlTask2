@@ -1,0 +1,202 @@
+"emp_id","full_name","job_title","department","business_unit","ethnicity","age","hire_date","country","experience"
+1,"Emily Davis","Sr. Manger","IT","Research & Development","Black",75,"2016-04-08","United States",8
+2,"Theodore Dinh","Technical Architect","IT","Manufacturing","Asian",66,"1997-11-29","China",26
+3,"Luna Sanders","Director","Finance","Speciality Products","Caucasian",67,"2006-10-26","United States",17
+4,"Penelope Jordan","Computer Systems Manager","IT","Manufacturing","Caucasian",36,"2019-09-27","United States",4
+5,"Austin Vo","Sr. Analyst","Finance","Manufacturing","Asian",47,"1995-11-20","United States",28
+6,"Joshua Gupta","Account Representative","Sales","Corporate","Asian",77,"2017-01-24","China",7
+7,"Ruby Barnes","Manager","IT","Corporate","Caucasian",69,"2020-07-01","United States",4
+8,"Luke Martin","Analyst","Finance","Manufacturing","Black",34,"2020-05-16","United States",4
+9,"Easton Bailey","Manager","Accounting","Manufacturing","Caucasian",52,"2019-01-25","United States",5
+10,"Madeline Walker","Sr. Analyst","Finance","Speciality Products","Caucasian",33,"2018-06-13","United States",6
+11,"Savannah Ali","Sr. Manger","Human Resources","Manufacturing","Asian",34,"2009-02-11","United States",15
+12,"Camila Rogers","Controls Engineer","Engineering","Speciality Products","Caucasian",32,"2021-10-21","United States",2
+13,"Eli Jones","Manager","Human Resources","Manufacturing","Caucasian",64,"1999-03-14","United States",25
+14,"Everleigh Ng","Sr. Manger","Finance","Research & Development","Asian",63,"2021-06-10","China",3
+15,"Robert Yang","Sr. Analyst","Accounting","Speciality Products","Asian",69,"2017-11-04","United States",6
+16,"Isabella Xi","Vice President","Marketing","Research & Development","Asian",71,"2013-03-13","United States",11
+17,"Bella Powell","Director","Finance","Research & Development","Black",79,"2002-03-04","United States",22
+18,"Camila Silva","Sr. Manger","Marketing","Speciality Products","Latino",80,"2003-12-01","United States",20
+19,"David Barnes","Director","IT","Corporate","Caucasian",36,"2013-11-03","United States",10
+20,"Adam Dang","Director","Sales","Research & Development","Asian",58,"2002-07-09","China",22
+21,"Elias Alvarado","Sr. Manger","IT","Manufacturing","Latino",62,"2012-01-09","Brazil",12
+22,"Eva Rivera","Director","Sales","Manufacturing","Latino",59,"2021-04-02","United States",3
+23,"Logan Rivera","Director","IT","Research & Development","Latino",55,"2002-05-24","Brazil",22
+24,"Leonardo Dixon","Analyst","Sales","Speciality Products","Caucasian",33,"2019-09-05","United States",5
+25,"Mateo Her","Vice President","Sales","Speciality Products","Asian",40,"2014-03-02","China",10
+26,"Jose Henderson","Director","Human Resources","Speciality Products","Black",69,"2015-04-17","United States",9
+27,"Abigail Mejia","Quality Engineer","Engineering","Corporate","Latino",61,"2005-02-05","Brazil",19
+28,"Wyatt Chin","Vice President","Engineering","Speciality Products","Asian",48,"2004-06-07","United States",20
+29,"Carson Lu","Engineering Manager","Engineering","Speciality Products","Asian",59,"1996-12-04","China",27
+30,"Dylan Choi","Vice President","IT","Corporate","Asian",47,"2012-05-11","China",12
+31,"Ezekiel Kumar","IT Coordinator","IT","Research & Development","Asian",39,"2017-06-25","United States",7
+32,"Dominic Guzman","Analyst","Finance","Manufacturing","Latino",73,"2004-05-16","Brazil",20
+33,"Angel Powell","Analyst II","Sales","Research & Development","Caucasian",31,"2008-07-11","United States",16
+34,"Mateo Vu","Account Representative","Sales","Speciality Products","Asian",54,"2016-09-29","China",7
+35,"Caroline Jenkins","Analyst","Finance","Research & Development","Caucasian",58,"2018-05-06","United States",6
+36,"Nora Brown","Enterprise Architect","IT","Manufacturing","Caucasian",38,"2014-02-11","United States",10
+37,"Adeline Huang","Controls Engineer","Engineering","Manufacturing","Asian",77,"2019-12-16","China",4
+38,"Jackson Perry","Vice President","Marketing","Research & Development","Caucasian",59,"2019-10-20","United States",4
+39,"Riley Padilla","Technical Architect","IT","Manufacturing","Latino",62,"2013-05-15","United States",11
+40,"Leah Pena","Enterprise Architect","IT","Corporate","Latino",31,"1994-01-03","Brazil",30
+41,"Owen Lam","Sr. Business Partner","Human Resources","Speciality Products","Asian",37,"2017-05-29","China",7
+42,"Kennedy Foster","Manager","Marketing","Speciality Products","Caucasian",38,"2013-11-23","United States",10
+43,"John Moore","Vice President","IT","Speciality Products","Caucasian",79,"2005-11-08","United States",18
+44,"William Vu","Account Representative","Sales","Speciality Products","Asian",64,"2013-11-14","China",10
+45,"Sadie Washington","Sr. Manger","Marketing","Research & Development","Caucasian",57,"2019-05-24","United States",5
+46,"Gabriel Holmes","Enterprise Architect","IT","Research & Development","Caucasian",45,"2010-11-04","United States",13
+47,"Wyatt Rojas","Computer Systems Manager","IT","Corporate","Latino",36,"2013-03-20","United States",11
+48,"Eva Coleman","Director","IT","Research & Development","Black",79,"2009-09-20","United States",15
+49,"Dominic Clark","Quality Engineer","Engineering","Research & Development","Caucasian",47,"2012-10-17","United States",11
+50,"Lucy Alexander","Director","Engineering","Manufacturing","Caucasian",61,"2014-10-29","United States",9
+51,"Everleigh Washington","HRIS Analyst","Human Resources","Research & Development","Caucasian",36,"2001-10-20","United States",22
+52,"Leilani Butler","Analyst II","Marketing","Manufacturing","Black",47,"2021-09-21","United States",2
+53,"Peyton Huang","Sr. Manger","IT","Manufacturing","Asian",43,"2021-07-02","China",3
+54,"John Contreras","Analyst II","Marketing","Manufacturing","Latino",50,"2011-05-15","United States",13
+55,"Rylee Yu","Director","Accounting","Research & Development","Asian",70,"2015-09-29","United States",8
+56,"Piper Lewis","Field Engineer","Engineering","Research & Development","Caucasian",78,"2018-12-22","United States",5
+57,"Stella Alexander","Automation Engineer","Engineering","Corporate","Caucasian",56,"2005-12-10","United States",18
+58,"Addison Do","Operations Engineer","Engineering","Manufacturing","Asian",67,"2001-05-30","United States",23
+59,"Zoey Jackson","Business Partner","Human Resources","Manufacturing","Black",44,"2008-08-21","United States",16
+60,"John Chow","Sr. Manger","Marketing","Research & Development","Asian",58,"2021-03-11","China",3
+61,"Ava Ayala","Sr. Manger","IT","Corporate","Latino",40,"2006-08-16","Brazil",18
+62,"Natalia Salazar","Sr. Analyst","Accounting","Manufacturing","Latino",43,"2019-01-02","Brazil",5
+63,"Skylar Carrillo","Engineering Manager","Engineering","Corporate","Latino",62,"2008-12-18","United States",15
+64,"Christian Sanders","Vice President","Human Resources","Speciality Products","Black",42,"2013-08-07","United States",11
+65,"Penelope Coleman","Analyst","Finance","Corporate","Black",32,"2021-08-27","United States",3
+66,"Piper Richardson","Sr. Analyst","Sales","Corporate","Caucasian",71,"2008-01-27","United States",16
+67,"Everly Walker","HRIS Analyst","Human Resources","Speciality Products","Caucasian",37,"2009-10-23","United States",14
+68,"Aurora Ali","Manager","Marketing","Research & Development","Asian",50,"2016-04-24","United States",8
+69,"Penelope Guerrero","Vice President","IT","Speciality Products","Latino",31,"2009-08-04","United States",15
+70,"Anna Mehta","Cloud Infrastructure Architect","IT","Speciality Products","Asian",62,"2020-01-05","United States",4
+71,"William Foster","Field Engineer","Engineering","Manufacturing","Caucasian",61,"2002-05-23","United States",22
+72,"Jade Rojas","Director","Finance","Speciality Products","Latino",65,"2019-01-28","United States",5
+73,"Isla Espinoza","Manager","Accounting","Speciality Products","Latino",47,"2021-11-16","Brazil",2
+74,"David Chu","Controls Engineer","Engineering","Corporate","Asian",68,"1998-09-03","United States",26
+75,"Thomas Padilla","Vice President","Marketing","Research & Development","Latino",50,"2003-07-26","Brazil",21
+76,"Miles Salazar","IT Coordinator","IT","Manufacturing","Latino",72,"2010-12-23","Brazil",13
+77,"Mila Hong","Test Engineer","Engineering","Research & Development","Asian",41,"2017-05-22","China",7
+78,"Benjamin Moua","Computer Systems Manager","IT","Manufacturing","Asian",71,"2007-07-02","China",17
+79,"Samuel Morales","Analyst II","Finance","Corporate","Latino",56,"2015-06-27","United States",9
+80,"John Soto","Sr. Manger","Finance","Manufacturing","Latino",61,"2015-09-23","United States",8
+81,"Joseph Martin","Analyst II","Marketing","Corporate","Black",73,"2016-09-13","United States",8
+82,"Jose Ross","Engineering Manager","Engineering","Research & Development","Caucasian",38,"1992-04-08","United States",32
+83,"Parker James","Quality Engineer","Engineering","Speciality Products","Black",46,"2005-02-05","United States",19
+84,"Everleigh Fernandez","Director","Engineering","Research & Development","Latino",31,"2016-05-22","Brazil",8
+85,"Lincoln Hall","Director","Accounting","Speciality Products","Caucasian",31,"2020-07-28","United States",4
+86,"Willow Mai","Business Partner","Human Resources","Manufacturing","Asian",66,"2003-12-17","China",20
+87,"Jack Cheng","Director","Human Resources","Manufacturing","Asian",45,"2014-01-16","China",10
+88,"Genesis Navarro","Cloud Infrastructure Architect","IT","Corporate","Latino",37,"2009-04-28","Brazil",15
+89,"Eliza Hernandez","Network Architect","IT","Corporate","Latino",72,"2019-07-04","Brazil",5
+90,"Gabriel Brooks","Network Engineer","IT","Manufacturing","Caucasian",74,"2018-12-10","United States",5
+91,"Jack Huynh","Manager","Marketing","Research & Development","Asian",62,"2018-09-25","China",5
+92,"Everly Chow","Sr. Manger","Finance","Speciality Products","Asian",58,"2018-04-21","China",6
+93,"Amelia Salazar","Analyst II","Finance","Corporate","Latino",50,"2019-04-23","Brazil",5
+94,"Xavier Zheng","Account Representative","Sales","Manufacturing","Asian",51,"2017-07-22","United States",7
+95,"Matthew Chau","Sr. Business Partner","Human Resources","Research & Development","Asian",32,"2002-11-16","United States",21
+96,"Mia Cheng","Sr. Manger","Sales","Manufacturing","Asian",47,"2015-04-22","United States",9
+97,"Rylee Tu","Vice President","Finance","Speciality Products","Asian",52,"2011-07-10","China",13
+98,"Zoe Romero","Network Architect","IT","Manufacturing","Latino",56,"2021-10-05","Brazil",2
+99,"Nolan Bui","Computer Systems Manager","IT","Research & Development","Asian",45,"2020-05-26","China",4
+100,"Nevaeh Jones","Vice President","Sales","Manufacturing","Caucasian",59,"2020-08-20","United States",4
+101,"Samantha Adams","Test Engineer","Engineering","Research & Development","Caucasian",71,"2013-04-22","United States",11
+102,"Madeline Shin","Computer Systems Manager","IT","Speciality Products","Asian",77,"2007-01-09","United States",17
+103,"Noah King","Development Engineer","Engineering","Speciality Products","Black",34,"2015-01-27","United States",9
+104,"Leilani Chow","Director","Human Resources","Corporate","Asian",65,"2021-02-23","China",3
+105,"Connor Simmons","Analyst II","Accounting","Speciality Products","Caucasian",67,"2007-04-05","United States",17
+106,"Grayson Cooper","Sr. Manger","Finance","Speciality Products","Black",41,"2013-06-29","United States",11
+107,"Ivy Soto","Field Engineer","Engineering","Research & Development","Latino",74,"1997-10-23","United States",26
+108,"Aurora Simmons","Development Engineer","Engineering","Corporate","Caucasian",65,"1995-12-22","United States",28
+109,"Andrew Thomas","Controls Engineer","Engineering","Manufacturing","Caucasian",42,"2016-12-02","United States",7
+110,"Ezekiel Desai","Director","Finance","Research & Development","Asian",73,"2003-01-15","United States",21
+111,"Gabriella Gupta","Sr. Account Representative","Sales","Corporate","Asian",48,"2005-02-15","China",19
+112,"Skylar Liu","Director","IT","Research & Development","Asian",68,"2020-08-09","China",4
+115,"Brooks Marquez","Vice President","Sales","Corporate","Latino",43,"2019-09-24","United States",4
+116,"Connor Joseph","Director","Human Resources","Corporate","Caucasian",75,"1998-07-22","United States",26
+117,"Mia Lam","Sr. Manger","IT","Manufacturing","Asian",51,"2006-04-18","United States",18
+118,"Scarlett Rodriguez","Sr. Analyst","Finance","Manufacturing","Latino",34,"2007-02-24","Brazil",17
+119,"Cora Rivera","Sr. Analyst","Marketing","Corporate","Latino",58,"2021-01-02","United States",3
+120,"Liam Jung","Manager","Finance","Corporate","Asian",61,"2010-01-14","China",14
+121,"Sophia Huynh","Enterprise Architect","IT","Manufacturing","Asian",54,"2005-08-09","United States",19
+122,"Athena Carrillo","Analyst II","Finance","Speciality Products","Latino",63,"2006-04-06","United States",18
+123,"Greyson Sanders","Cloud Infrastructure Architect","IT","Speciality Products","Black",59,"2019-03-06","United States",5
+124,"Vivian Lewis","Manager","Marketing","Manufacturing","Caucasian",52,"2011-09-07","United States",13
+125,"Elena Vang","Analyst","Finance","Corporate","Asian",42,"2019-02-19","China",5
+126,"Natalia Diaz","Operations Engineer","Engineering","Corporate","Latino",36,"2006-10-12","United States",17
+127,"Mila Leung","Sr. Analyst","Marketing","Corporate","Asian",42,"2007-11-05","China",16
+128,"Ava Nelson","Systems Analyst","IT","Manufacturing","Caucasian",62,"1992-04-01","United States",32
+129,"Mateo Chu","Field Engineer","Engineering","Speciality Products","Asian",52,"2020-04-16","China",4
+130,"Isla Lai","Vice President","Finance","Corporate","Asian",48,"2011-12-06","China",12
+131,"Ezekiel Reed","Sr. Manger","IT","Manufacturing","Caucasian",46,"2014-02-25","United States",10
+132,"Nolan Guzman","Field Engineer","Engineering","Speciality Products","Latino",73,"1999-06-20","Brazil",25
+133,"Everleigh Espinoza","Director","Human Resources","Manufacturing","Latino",76,"2018-01-22","United States",6
+134,"Evelyn Jung","Analyst","Sales","Research & Development","Asian",75,"2021-02-14","China",3
+135,"Sophie Silva","Vice President","Engineering","Corporate","Latino",47,"2017-07-06","Brazil",7
+136,"Mateo Williams","Enterprise Architect","IT","Manufacturing","Caucasian",53,"2011-01-22","United States",13
+137,"Kennedy Rahman","Vice President","Human Resources","Manufacturing","Asian",52,"2003-02-28","China",21
+138,"Levi Mendez","Vice President","Sales","Research & Development","Latino",59,"2011-08-23","Brazil",13
+139,"Julian Fong","Quality Engineer","Engineering","Speciality Products","Asian",69,"2002-11-22","China",21
+140,"Nevaeh Kang","Automation Engineer","Engineering","Research & Development","Asian",65,"2021-01-10","China",3
+141,"Hannah Nelson","Sr. Analyst","Marketing","Speciality Products","Caucasian",49,"2019-09-07","United States",5
+142,"Anthony Rogers","Vice President","Engineering","Corporate","Caucasian",46,"2015-06-18","United States",9
+143,"Paisley Kang","Vice President","Human Resources","Corporate","Asian",42,"2017-03-10","China",7
+144,"Matthew Gupta","Network Engineer","IT","Speciality Products","Asian",43,"2005-09-18","China",19
+145,"Silas Chavez","Technical Architect","IT","Research & Development","Latino",61,"2008-04-15","United States",16
+146,"Colton Thao","Manager","Human Resources","Manufacturing","Asian",43,"1995-11-16","China",28
+147,"Genesis Perry","Sr. Manger","Sales","Corporate","Caucasian",72,"2013-07-18","United States",11
+148,"Alexander Bryant","Field Engineer","Engineering","Speciality Products","Caucasian",44,"2021-10-02","United States",2
+149,"Elias Zhang","Solutions Architect","IT","Research & Development","Asian",71,"2013-07-13","China",11
+150,"Lily Carter","Network Architect","IT","Research & Development","Caucasian",52,"1998-05-18","United States",26
+151,"Joseph Ruiz","Field Engineer","Engineering","Manufacturing","Latino",47,"2002-02-26","Brazil",22
+152,"Avery Bailey","Sr. Analyst","Sales","Speciality Products","Caucasian",51,"1996-05-15","United States",28
+153,"Miles Hsu","Analyst II","Finance","Research & Development","Asian",66,"2014-03-16","China",10
+154,"Piper Cheng","Enterprise Architect","IT","Manufacturing","Asian",37,"2009-03-15","United States",15
+155,"Skylar Watson","Network Architect","IT","Speciality Products","Caucasian",69,"2021-10-08","United States",2
+156,"Jaxon Park","Network Architect","IT","Manufacturing","Asian",46,"2020-07-24","China",4
+157,"Elijah Henry","Manager","IT","Corporate","Caucasian",40,"2014-01-03","United States",10
+158,"Camila Watson","Vice President","Finance","Speciality Products","Caucasian",46,"2018-01-02","United States",6
+159,"Lucas Thomas","Manager","Accounting","Research & Development","Caucasian",80,"2000-04-28","United States",24
+160,"Skylar Doan","Sr. Business Partner","Human Resources","Research & Development","Asian",32,"1994-08-21","United States",30
+161,"Hudson Liu","Engineering Manager","Engineering","Speciality Products","Asian",42,"2017-11-16","United States",6
+162,"Gianna Williams","Quality Engineer","Engineering","Research & Development","Black",36,"2021-01-28","United States",3
+163,"Jaxson Sandoval","Sr. Analyst","Sales","Speciality Products","Latino",76,"2017-05-03","Brazil",7
+164,"Jameson Alvarado","Enterprise Architect","IT","Manufacturing","Latino",49,"1999-03-14","Brazil",25
+165,"Joseph Ly","Vice President","Marketing","Speciality Products","Asian",39,"2009-02-28","China",15
+166,"Daniel Richardson","Director","Engineering","Speciality Products","Caucasian",37,"2018-05-20","United States",6
+167,"Elias Figueroa","Sr. Manger","Finance","Corporate","Latino",64,"2021-12-24","United States",2
+168,"Emma Brooks","Sr. Account Representative","Sales","Research & Development","Caucasian",55,"2016-12-18","United States",7
+169,"Isla Wong","Vice President","Accounting","Corporate","Asian",54,"2014-03-16","United States",10
+170,"Everly Walkerss","Sr. Manger","Sales","Research & Development","Caucasian",79,"1999-08-02","United States",25
+171,"Mila Pena","Sr. Business Partner","Human Resources","Manufacturing","Latino",44,"2007-12-21","Brazil",16
+172,"Mason Zhao","Technical Architect","IT","Research & Development","Asian",78,"2021-10-26","China",2
+173,"Jaxson Mai","Vice President","Human Resources","Research & Development","Asian",79,"2014-03-08","United States",10
+174,"Ava Garza","Director","Accounting","Manufacturing","Latino",76,"2018-06-25","United States",6
+175,"Nathan Mendez","Manager","IT","Speciality Products","Latino",43,"2006-10-31","United States",17
+176,"Maria Griffin","Manager","Marketing","Manufacturing","Caucasian",45,"2007-04-25","United States",17
+177,"Alexander Choi","Manager","Marketing","Research & Development","Asian",75,"1994-09-18","United States",30
+178,"Maria Hong","Vice President","Finance","Speciality Products","Asian",33,"2005-07-31","China",19
+179,"Sophie Ali","Analyst","Finance","Manufacturing","Asian",37,"2002-03-28","United States",22
+180,"Julian Ross","Manager","Marketing","Research & Development","Caucasian",31,"2020-07-02","United States",4
+181,"Emma Hill","IT Coordinator","IT","Manufacturing","Caucasian",73,"2016-12-27","United States",7
+182,"Leilani Yee","Sr. Analyst","Marketing","Speciality Products","Asian",42,"2017-07-12","China",7
+183,"Jack Brown","Analyst","Marketing","Corporate","Caucasian",79,"2004-12-07","United States",19
+184,"Charlotte Chu","Network Engineer","IT","Manufacturing","Asian",46,"2001-01-23","China",23
+185,"Jeremiah Chu","IT Systems Architect","IT","Research & Development","Asian",61,"2020-09-12","China",4
+186,"Miles Cho","Systems Analyst","IT","Speciality Products","Asian",53,"1999-03-10","China",25
+187,"Caleb Marquez","IT Systems Architect","IT","Research & Development","Latino",50,"2019-10-15","Brazil",4
+188,"Eli Soto","Analyst","Marketing","Speciality Products","Latino",67,"2016-05-02","Brazil",8
+189,"Carter Mejia","Sr. Manger","Human Resources","Research & Development","Latino",59,"2019-05-09","Brazil",5
+190,"Ethan Clark","Sr. Business Partner","Human Resources","Manufacturing","Caucasian",33,"2017-08-04","United States",7
+191,"Asher Jackson","Sr. Manger","Sales","Speciality Products","Caucasian",34,"2003-03-25","United States",21
+192,"Ayla Ng","Account Representative","Sales","Manufacturing","Asian",72,"2004-03-20","China",20
+193,"Jose Kang","Engineering Manager","Engineering","Corporate","Asian",37,"1999-04-25","China",25
+194,"Aubrey Romero","Director","Sales","Corporate","Latino",37,"1998-04-02","United States",26
+195,"Jaxson Wright","Service Desk Analyst","IT","Manufacturing","Black",65,"2010-12-28","United States",13
+196,"Elias Ali","Manager","Sales","Corporate","Asian",40,"2021-03-19","China",3
+197,"Nolan Pena","Analyst","Marketing","Manufacturing","Latino",63,"2018-06-21","Brazil",6
+198,"Luna Liu","Vice President","Sales","Manufacturing","Asian",69,"2014-02-22","China",10
+199,"Brooklyn Reyes","Service Desk Analyst","IT","Manufacturing","Latino",72,"2019-12-19","United States",14
+200,"Layla Torres","Sr. Manger","Finance","Manufacturing","Latino",62,"2013-02-24","Brazil",18
+201,"Jack Edwards","Manager","Marketing","Manufacturing","Caucasian",78,"2008-04-06","China",22
+202,"Eleanor Chan","Sr. Manger","Accounting","Manufacturing","Asian",44,"2001-04-02","United States",26
+203,"Aria Xi","Director","Sales","Research & Development","Asian",67,"2002-03-01","Brazil",30
